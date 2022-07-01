@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Endless Runner/1.0.0": {
+        "runtime": {
+          "Endless Runner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Endless Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
